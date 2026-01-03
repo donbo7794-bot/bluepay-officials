@@ -116,7 +116,7 @@ const BuyBPCPayment = () => {
         <div className="mb-3 border-t pt-3">
           <p className="text-gray-500 text-xs">Account Number</p>
           <div className="flex justify-between items-center">
-            <p className="text-lg font-bold">8110221728</p>
+            <p className="text-lg font-bold">6535501941</p>
             <Button
               variant="default"
               size="sm"
