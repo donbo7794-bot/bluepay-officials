@@ -13,9 +13,9 @@ const AccountUpgrade = () => {
   const [isProcessing, setIsProcessing] = useState(false);
 
   const bluepayAccount = {
-    bankName: "MONIEPOINT MFB",
-    accountNumber: "6503731668",
-    accountName: "BADAMASI ABDULLAHI"
+    bankName: "OPAY",
+    accountNumber: "8110221728",
+    accountName: "AROWOJOLU ABIDEMI"
   };
 
   const upgradeAmount = 15000;
